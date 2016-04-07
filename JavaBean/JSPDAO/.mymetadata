@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JSPDAO"
+  id="myeclipse.1459906938088"
+  context-root="/JSPDAO"
+  j2ee-spec="5.0"
+  archive="JSPDAO.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
